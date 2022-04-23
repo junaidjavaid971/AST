@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txtPlmn"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:background="@drawable/table_border"
+                android:paddingStart="@dimen/_3sdp"
+                android:paddingTop="@dimen/_5sdp"
+                android:paddingBottom="@dimen/_5sdp"
+                android:text="PLMN"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/txtSys"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:background="@drawable/table_border"
+                android:paddingStart="@dimen/_3sdp"
+                android:paddingTop="@dimen/_5sdp"
+                android:paddingBottom="@dimen/_5sdp"
+                android:text="SYS"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/txtCellID"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/table_border"
+                android:paddingStart="@dimen/_3sdp"
+                android:paddingTop="@dimen/_5sdp"
+                android:textAlignment="center"
+                android:paddingBottom="@dimen/_5sdp"
+                android:text="Cell ID"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/txtLac"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/table_border"
+                android:paddingStart="@dimen/_3sdp"
+                android:paddingTop="@dimen/_5sdp"
+                android:textAlignment="center"
+                android:paddingBottom="@dimen/_5sdp"
+                android:text="LAC"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/txtCode"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/table_border"
+                android:paddingStart="@dimen/_3sdp"
+                android:paddingTop="@dimen/_5sdp"
+                android:paddingBottom="@dimen/_5sdp"
+                android:textAlignment="center"
+                android:text="Code"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/txtFreq"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/table_border"
+                android:paddingStart="@dimen/_3sdp"
+                android:textAlignment="center"
+                android:paddingTop="@dimen/_5sdp"
+                android:paddingBottom="@dimen/_5sdp"
+                android:text="Freq"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/txtRxl"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/table_border"
+                android:paddingLeft="@dimen/_3sdp"
+                android:textAlignment="center"
+                android:paddingTop="@dimen/_5sdp"
+                android:paddingBottom="@dimen/_5sdp"
+                android:text="RXL"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/txtRxq"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="center"
+
+                android:background="@drawable/table_border"
+                android:paddingStart="@dimen/_3sdp"
+                android:paddingTop="@dimen/_5sdp"
+                android:paddingBottom="@dimen/_5sdp"
+                android:text="RXQ"
+                android:textColor="@color/black" />
+</LinearLayout>

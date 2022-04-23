@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/radio_info"
+        android:title="@string/radioinfo"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mobile_network"
+        android:title="@string/mobile_network"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/compatibility_test"
+        android:title="@string/compatibility_test"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/file_manager"
+        android:title="@string/file_manager"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/import_clf"
+        android:title="@string/import_clf"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/change_log"
+        android:title="@string/change_log"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit"
+        app:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/drawable-v24/main_bg.xml" value="0.1835" />
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/drawable/bg_btnstart.xml" value="0.16" />
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/drawable/bg_main.xml" value="0.16" />
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/drawable/ic_arrow_drop_down.xml" value="0.16" />
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/drawable/ic_arrow_drop_up.xml" value="0.16" />
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/drawable/main_bg.xml" value="0.16" />
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/layout/activity_history.xml" value="0.2" />
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/layout/activity_speed_test1.xml" value="0.23802083333333332" />
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/layout/activity_speed_test2.xml" value="0.2" />
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/layout/activity_splash.xml" value="0.23802083333333332" />
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/layout/history_list.xml" value="0.23802083333333332" />
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/layout/layout_values.xml" value="0.264" />
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/layout/neighbours_layout.xml" value="0.23802083333333332" />
+        <entry key="..\:/Documents/Android Studio Projects/AST/app/src/main/res/layout/toolbar.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/abuba/Desktop/AST (1)/AST/app/src/main/res/layout/activity_main.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/abuba/Desktop/AST (1)/AST/app/src/main/res/layout/layout_values.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/abuba/Desktop/AST (1)/AST/app/src/main/res/layout/loading_layout.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/abuba/Desktop/AST (1)/AST/app/src/main/res/layout/neighbours_layout.xml" value="0.2609375" />
+        <entry key="..\:/Users/abuba/Desktop/AST (1)/AST/app/src/main/res/layout/toolbar.xml" value="0.2609375" />
+        <entry key="..\:/Users/abuba/Desktop/AST (1)/AST/app/src/main/res/menu/top_app_bar.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/abuba/Desktop/AST Updated/AST/app/src/main/res/drawable/ic_ast_transparent.xml" value="0.1775" />
+        <entry key="..\:/Users/abuba/Desktop/AST Updated/AST/app/src/main/res/drawable/main_bg.xml" value="0.1775" />
+        <entry key="..\:/Users/abuba/Desktop/AST Updated/AST/app/src/main/res/layout/activity_speed_test1.xml" value="0.2453125" />
+        <entry key="..\:/Users/abuba/Desktop/AST Updated/AST/app/src/main/res/layout/activity_splash.xml" value="0.2453125" />
+        <entry key="..\:/Users/abuba/Desktop/AST Updated/AST/app/src/main/res/layout/header.xml" value="0.2453125" />
+        <entry key="..\:/Users/abuba/Desktop/AST Updated/AST/app/src/main/res/layout/layout_values.xml" value="0.2609375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

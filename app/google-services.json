@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377294808616",
+    "firebase_url": "https://advanced-security-networ-39500-default-rtdb.firebaseio.com",
+    "project_id": "advanced-security-networ-39500",
+    "storage_bucket": "advanced-security-networ-39500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377294808616:android:0a5c7e807c27addec6b71d",
+        "android_client_info": {
+          "package_name": "app.com.ast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377294808616-2v6pdhfs9hn69apf3lglrppnd944vfif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.com.ast",
+            "certificate_hash": "0c7a516581cf644c77940d1b4813939cec9ef41b"
+          }
+        },
+        {
+          "client_id": "377294808616-r1n62gqf99caefgabh2mcn6sfhb0l996.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEJMQSZMzYYJsCEKvb4SimRKkb9ooZzPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377294808616-r1n62gqf99caefgabh2mcn6sfhb0l996.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
